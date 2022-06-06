@@ -23,6 +23,7 @@
 
 body {
   font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 18px;
 }
 
 .container {
@@ -343,6 +344,7 @@ footer {
 @media(max-width: 850px) {
 
   body {
+    font-size: 16px;
     display: flex;
     flex-direction: column;
     justify-content: center;
